@@ -1,0 +1,37 @@
+/* Write your CSS here */
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mini-container {
+  width: 350px;
+  height: 25vh;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.white {
+  color: black;
+  font-size: 28px;
+}
+.dark {
+  color: white;
+  font-size: 28px;
+}
+.btn {
+  height: 30px;
+  width: 100px;
+  color: black;
+}
+.mini {
+  background-color: white;
+}
+.minione {
+  background-color: black;
+}
